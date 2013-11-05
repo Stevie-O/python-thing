@@ -1,7 +1,7 @@
 Sonic the Hedgehog
 Super Mario Advance (mario 2)
 Driver 2
-#Sonic Spinball
+#Sonic Spinball [COMPLETED]
 Mulan
 Conkers Pocket Tales
 Sonic 3
@@ -19,16 +19,16 @@ Star Fox 3DS
 Metroid
 Resident Evil Raccoon City
 Super Mario 64 DS
-#Castlevania 2: Simons Quest
+#Castlevania 2: Simons Quest [COMPLETED]
 Batman Arkham Asylum
-#Slycooper 4
+#Slycooper 4 [COMPLETED]
 Sonic '06
 Super Mario Bros.
 Fate 1, 2, & 3
-#Dark Souls
+#Dark Souls [COMPLETED]
 Soul Caliber 2 Gamecube
 Morrowind
-#Lost Planet 2
+#Lost Planet 2 [COMPLETED]
 Sniper Ghost Warrior
 Pokemon Rumble
 Farcry 3
@@ -36,10 +36,10 @@ Fable 2
 Zelda 2
 Thrillville Off the Rails
 Naruto Ultimate Ninja 3
-#Super Stardust
+#Super Stardust [COMPLETED]
 Resident Evil Zero
 Resident Evil 4
-#Final Fantasy 7
+#Final Fantasy 7 [COMPLETED]
 Devil May Cry HD Collection
 The X Files
 Super Mario World
